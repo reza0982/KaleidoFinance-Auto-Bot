@@ -1,5 +1,6 @@
-# Kaleido Auto Bot 🤖
+# Kaleido Auto Bot This script is only for learning, not for misuse
 THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
+
 
 ## Register
 - https://kaleidofinance.xyz/testnet?ref=ZXTAEAVF
